@@ -1,2 +1,2 @@
 # image
-just save some image
+Image storage
